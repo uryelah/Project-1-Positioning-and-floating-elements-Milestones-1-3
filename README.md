@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# POSITIONING-AND-FLOATING-ELEMENTS
+# POSITIONING
 
 > In this project, the assignment is to copy this article from the New York Times.
 
